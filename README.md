@@ -1,4 +1,4 @@
-LambdaTest Playground Website Testing Project
+
 ![image](https://github.com/user-attachments/assets/f00bcdf5-f8b9-4052-8c49-ed1f8cf923df)
 
 
@@ -6,7 +6,7 @@ LambdaTest Playground Website Testing Project
 
 
 
-
+LambdaTest Playground Website Testing Project
 📌 Overview
 
 This project focuses on testing the LambdaTest Playground website to ensure its functionalities meet the specified requirements. The project involves manual testing and documentation of the testing process.
